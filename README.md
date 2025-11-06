@@ -1,6 +1,6 @@
 # Sign-Language-Detector
 ## Overview
-Real-time Sign Language Interpreter using Python, and Scikit-learn. Captures webcam input, detects hand signs, and classifies gestures into sign language symbols using a trained ML model.
+Real-time Sign Language Interpreter using Python, MediaPipe, and Scikit-learn. Captures webcam input, detects hand signs, and classifies gestures into sign language symbols using a trained ML model.
 
 ## Initial Requirements 
 1. Video Capture - The system must continuously capture real-time video frames from the webcam
